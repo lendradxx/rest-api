@@ -3,7 +3,7 @@ import React from "react";
 function Head() {
   return (
     <head>
-      <link rel="stylesheet" href="styles/docs.css" />
+      <link rel="stylesheet" href="styles/default.css" />
     </head>
   );
 }

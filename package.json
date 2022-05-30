@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node dist/index.js",
     "build": "tsc",
-    "debug": "yarn build && nodemon"
+    "debug": "yarn build && nodemon -e ts,jsx,css"
   },
   "dependencies": {
     "@joepie91/express-react-views": "^2.0.0",
