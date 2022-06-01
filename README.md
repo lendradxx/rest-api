@@ -1,6 +1,6 @@
 # Len API
 
-Ini adalah repository LenAPI, repository gratis.\
+Ini adalah repository LenAPI
 Jika kalian suka dengan rest api ini, bisa donasi ke saya :)
 
 ## Requirements
@@ -18,9 +18,7 @@ $ ./start.sh
 ```
 
 ### Docker
-```bash
-$ docker pull lendradxx/rest-api
-```
+Coming Soon!
 
 ## Perhatian
 Jika kalian menemui masalah saat penginstalan atau pemasangan, tolong diinstall juga dependensinya.
