@@ -1,0 +1,8 @@
+site_name: LenAPI
+theme:
+  name: null
+  custom_dir: 'docs/themes/cinder'
+nav:
+  - Docs: docs.md
+  - Pricing: pricing.md
+  - Source Code: https://github.com/lendradxx/len-api
