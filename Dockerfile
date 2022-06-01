@@ -1,5 +1,5 @@
 FROM archlinux:latest
-ENV REPO_URL=https://github.com/lendradxx/len-api
+ENV REPO_URL=https://github.com/lendradxx/rest-api
 
 RUN pacman -Syyu --noconfirm
 RUN pacman -S nodejs npm python python-pip --noconfirm
